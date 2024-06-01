@@ -1,0 +1,17 @@
+/* Write your code here. */
+.faqs-app {
+  padding: 20px;
+}
+
+.heading {
+  text-align: center;
+  font-size: 28px;
+  color: #52606d;
+  margin-bottom: 20px;
+}
+
+.faqs-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
